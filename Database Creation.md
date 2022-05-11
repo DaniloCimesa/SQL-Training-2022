@@ -1,5 +1,5 @@
 
-/*Writing a complete SQL script with supporting comments applying all the concepts known so far that generate following tables that stores data about:
+ Writing a complete SQL script with supporting comments applying all the concepts known so far that generate following tables that stores data about:
 
    - Addresses
 
