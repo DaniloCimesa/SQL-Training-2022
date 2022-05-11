@@ -88,4 +88,5 @@ Create table [Addresses of customers]
  Create table [Sales Orders(Details)]
  (Order_ID smallint,
  Order_summary varchar(100),
- order_from_store_id int )```
+ order_from_store_id int )
+ ```
