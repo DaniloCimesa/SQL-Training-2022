@@ -1,4 +1,4 @@
-
+```
 
 Insert into [Product Categories] values
 
@@ -1146,3 +1146,4 @@ Insert into [Detailed description of product models] values
 (	100	,14	,'	Sijalica led Phillips 40W	 '	,'Led sijalica Phillips E27 40W'	,'Kutija'	,'Phillips',	270),
 (	101	,14	,'	Punjiva baterija 550mAh	 '	,'Punjiva baterija 550 mAh Varta'	,'Plasticna ambalaza'	,'Varta',	860),
 (	101	,14	,'	Baterija Alkalna 1,5V	 '	,'Baterija alkalna LL Power 1,5V 5+2 Varta'	,'Plasticna ambalaza'	,'Varta',	600)
+```
