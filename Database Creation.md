@@ -19,7 +19,7 @@
 
    - Sales Orders (Headers)
 
-   - Sales Orders (Details)*/
+   - Sales Orders (Details)
 
 ```
 Create table [Product Categories]
