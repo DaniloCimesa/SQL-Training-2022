@@ -1,6 +1,6 @@
 
-
-
+ Write a complete SQL script with supporting comments applying all the concepts known so far that deletes some of tables not needed anymore.
+```
 --Deleted table Addresses of customer because I stored that data in table Customers.
 
 drop table [Addresses of customers]
@@ -13,3 +13,4 @@ drop table Product_description
 /*Deleted table Produc Model because all the data can be stored in Detailed description of product models*/
 
 drop table Product_model
+```
