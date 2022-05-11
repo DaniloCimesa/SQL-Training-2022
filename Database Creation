@@ -25,7 +25,7 @@
 Create table [Product Categories]
 (Product_category_id int,
  product_category_name varchar(25))
-
+```
 
 Create table [Addresses of customers]
 (Customer_id int identity(1,1),
