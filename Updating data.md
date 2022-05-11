@@ -1,4 +1,6 @@
 
+Write a complete SQL script with supporting comments applying all the concepts known so far that updates records that are incomplete or consists of irregular data.
+
 ```
 update [Product Categories]
 set product_category_name='Smrznuti proizvodi'
